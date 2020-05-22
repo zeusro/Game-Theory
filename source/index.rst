@@ -14,6 +14,7 @@ Welcome to Game Theory's documentation!
    chapter_1.md
    chapter_2.md
    chapter_3.md
+   cdn.md
 
 Indices and tables
 ==================
